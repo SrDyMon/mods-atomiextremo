@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-07T21:57:50.447Z",
+  "version": "2026-10-07T22:04:31.227Z",
   "minecraft": "1.21.1",
   "fabricLoader": "latest",
   "files": [
@@ -18,8 +18,8 @@
     {
       "path": "mods/AtomiExtremo-1.0.0.jar",
       "url": "https://github.com/SrDyMon/mods-atomiextremo/releases/download/mods/AtomiExtremo-1.0.0.jar",
-      "sha256": "4d17f49247ff8b7655217805f32072d0f9f5223f4626e1eeb04129f1cd2be1c6",
-      "size": 7547967
+      "sha256": "94d1a6c304e6d8b58565676d973da95bcb7294c249caec12f43c18c628413bb2",
+      "size": 7594248
     },
     {
       "path": "mods/Clumps-fabric-1.21.1-19.0.0.1.jar",
