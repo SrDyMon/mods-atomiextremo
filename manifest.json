@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-08T02:27:48.825Z",
+  "version": "2026-10-08T02:31:32.926Z",
   "minecraft": "1.21.1",
   "fabricLoader": "latest",
   "files": [
@@ -18,8 +18,8 @@
     {
       "path": "mods/AtomiExtremo-1.0.0.jar",
       "url": "https://github.com/SrDyMon/mods-atomiextremo/releases/download/mods/AtomiExtremo-1.0.0.jar",
-      "sha256": "4d17f49247ff8b7655217805f32072d0f9f5223f4626e1eeb04129f1cd2be1c6",
-      "size": 7547967
+      "sha256": "1420a32e5c073ff752808e684224a166c43b0dd91aed5af59439d922f09881e3",
+      "size": 8151852
     },
     {
       "path": "mods/BetterF3-11.0.3-Fabric-1.21.1.jar",
