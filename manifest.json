@@ -25,7 +25,7 @@
     {
       "path": "mods/AtomiExtremo-1.0.0.jar",
       "url": "https://github.com/SrDyMon/mods-atomiextremo/releases/download/Mods/AtomiExtremo-1.0.0.jar",
-      "sha256": "2a738b6ba18632150a269065e8196dd37a64839a29b17dd41098655798b7dfe9"
+      "sha256": "abf33994470a26c8d5ac5cdbd0b9e96f6fe426c7a115c72689d72ab660cfc49c"
     },
     {
       "path": "mods/BetterF3-11.0.3-Fabric-1.21.1.jar",
@@ -226,6 +226,11 @@
       "path": "mods/vanillin-fabric-1.21.1-1.1.3.jar",
       "url": "https://github.com/SrDyMon/mods-atomiextremo/releases/download/Mods/vanillin-fabric-1.21.1-1.1.3.jar",
       "sha256": "7552ea4b234b8bc5ddb49a2244270cc639cf14851233f480ab088bb87f93ab25"
+    },
+    {
+      "path": "mods/VisualMod-1.3.0.jar",
+      "url": "https://github.com/SrDyMon/mods-atomiextremo/releases/download/Mods/VisualMod-1.3.0.jar",
+      "sha256": "2b9a7038a2d7903911abbd5bc8d998b9e92094b1a5af5beb434dc36bfbb4966f"
     },
     {
       "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
