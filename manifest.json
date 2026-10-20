@@ -25,7 +25,7 @@
     {
       "path": "mods/AtomiExtremo-1.0.0.jar",
       "url": "https://github.com/SrDyMon/mods-atomiextremo/releases/download/Mods/AtomiExtremo-1.0.0.jar",
-      "sha256": "46010afdaee7a4509d8bc1e349e742bc1f477a2133ef16409b303826b09683fe"
+      "sha256": "be7e2665d9a402b174d614afe2039dbaa258d3cbac9ee0d1c9e6c914644cd4f4"
     },
     {
       "path": "mods/BetterF3-11.0.3-Fabric-1.21.1.jar",
@@ -176,6 +176,11 @@
       "path": "mods/noxesium-2.3.3.jar",
       "url": "https://github.com/SrDyMon/mods-atomiextremo/releases/download/Mods/noxesium-2.3.3.jar",
       "sha256": "62e9407835ecf86b462eba23e9701d919978459d0ff576bd7116fd8a1d3b72e2"
+    },
+    {
+      "path": "mods/opmodels-1.1.0.jar",
+      "url": "https://github.com/SrDyMon/mods-atomiextremo/releases/download/Mods/opmodels-1.1.0.jar",
+      "sha256": "c6deada2fac53b8ea6523dbda77597b128006674616f140f04df23264c6d1aa3"
     },
     {
       "path": "mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
