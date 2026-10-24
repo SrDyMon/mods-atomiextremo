@@ -25,7 +25,7 @@
     {
       "path": "mods/AtomiExtremo-1.0.0.jar",
       "url": "https://github.com/SrDyMon/mods-atomiextremo/releases/download/Mods/AtomiExtremo-1.0.0.jar",
-      "sha256": "5ecb6738ae13d6ed1817ffed0f7bba80784d3567f6ac20aacf28a89daeb8578d"
+      "sha256": "dafdd427279c44d204257a91f63858b720baf922bdc74c7af3068760382be137"
     },
     {
       "path": "mods/BetterF3-11.0.3-Fabric-1.21.1.jar",
@@ -55,7 +55,7 @@
     {
       "path": "mods/cinecam-1.0.0.jar",
       "url": "https://github.com/SrDyMon/mods-atomiextremo/releases/download/Mods/cinecam-1.0.0.jar",
-      "sha256": "910bbe8deedf348a427c968e51c1202a5361f8c0e6ef08a76d2ea159228c3e6f"
+      "sha256": "37ea2989a1d923e6959e76d1c8988a4e8f356ab8f1d635e4389c8170638ac5d6"
     },
     {
       "path": "mods/cloth-config-15.0.140-fabric.jar",
