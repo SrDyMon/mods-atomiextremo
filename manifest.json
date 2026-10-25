@@ -246,6 +246,11 @@
       "path": "mods/zoomify-2.15.2+1.21.1.jar",
       "url": "https://github.com/SrDyMon/mods-atomiextremo/releases/download/Mods/zoomify-2.15.2%2B1.21.1.jar",
       "sha256": "6c317987df28922e227ab3ac4e39090460d99b965bcb9c8da8f9a4493b705d00"
+    },
+    {
+      "path": "resourcepacks/skinmod-iconos-pack.zip",
+      "url": "https://github.com/SrDyMon/mods-atomiextremo/releases/download/Mods/skinmod-iconos-pack.zip",
+      "sha256": "3ab645e54d13ce62218251c063e70f9f499c813466f11a692a662a562d8eeb13"
     }
   ]
 }
