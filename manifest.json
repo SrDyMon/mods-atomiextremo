@@ -25,7 +25,7 @@
     {
       "path": "mods/AtomiExtremo-1.0.0.jar",
       "url": "https://github.com/SrDyMon/mods-atomiextremo/releases/download/Mods/AtomiExtremo-1.0.0.jar",
-      "sha256": "357f1cf80cdc9ec9f3511e56da53cbed720e80205d18bd1efc5695930236e302"
+      "sha256": "b22202f763eeb9cc865b5df97d73033137bdbd66057122ef6807a0db51dbe7f0"
     },
     {
       "path": "mods/BetterF3-11.0.3-Fabric-1.21.1.jar",
@@ -246,12 +246,6 @@
       "path": "mods/zoomify-2.15.2+1.21.1.jar",
       "url": "https://github.com/SrDyMon/mods-atomiextremo/releases/download/Mods/zoomify-2.15.2%2B1.21.1.jar",
       "sha256": "6c317987df28922e227ab3ac4e39090460d99b965bcb9c8da8f9a4493b705d00"
-    },
-    {
-      "path": "resourcepacks/skinmod-iconos-pack.zip",
-      "url": "https://github.com/SrDyMon/mods-atomiextremo/releases/download/Mods/skinmod-iconos-pack.zip",
-      "sha256": "3ab645e54d13ce62218251c063e70f9f499c813466f11a692a662a562d8eeb13",
-      "enable": true
     }
   ]
 }
