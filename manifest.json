@@ -193,9 +193,9 @@
       "sha256": "c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443"
     },
     {
-      "path": "mods/proxchat-1.3.0.jar",
-      "url": "https://github.com/SrDyMon/mods-atomiextremo/releases/download/Mods/proxchat-1.3.0.jar",
-      "sha256": "dc6c17b89d00b7f1b24a3bd63e6a77e38da6103f605dfd97f4bb92a8ae1a339c"
+      "path": "mods/plasmovoice-fabric-1.21.1-2.1.17.jar",
+      "url": "https://github.com/SrDyMon/mods-atomiextremo/releases/download/Mods/plasmovoice-fabric-1.21.1-2.1.17.jar",
+      "sha256": "46e1a4ae51786457712991ba05bf573e2d11331aeadb63b7d108839def022a2b"
     },
     {
       "path": "mods/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
