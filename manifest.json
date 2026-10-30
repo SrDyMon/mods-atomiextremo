@@ -68,6 +68,11 @@
       "sha256": "49e406cb2872e24a2d2dbe461b93f0c8fbee1748d14c2a941e54f785e3a1e1a7"
     },
     {
+      "path": "mods/copperagebackport-fabric-1.21.1-0.1.5.1-pre.jar",
+      "url": "https://github.com/SrDyMon/mods-atomiextremo/releases/download/Mods/copperagebackport-fabric-1.21.1-0.1.5.1-pre.jar",
+      "sha256": "3fc87334b95f673d70e14ca3019694f819716206329b80cb048cb7e5538dd262"
+    },
+    {
       "path": "mods/enhancedblockentities-0.10.2+1.21.jar",
       "url": "https://github.com/SrDyMon/mods-atomiextremo/releases/download/Mods/enhancedblockentities-0.10.2%2B1.21.jar",
       "sha256": "61396ddd5990ae8177165492067c4b02e2ebacbd7be3e97eb37a46aae13c9679"
@@ -236,6 +241,11 @@
       "path": "mods/VisualMod-1.3.0.jar",
       "url": "https://github.com/SrDyMon/mods-atomiextremo/releases/download/Mods/VisualMod-1.3.0.jar",
       "sha256": "2b9a7038a2d7903911abbd5bc8d998b9e92094b1a5af5beb434dc36bfbb4966f"
+    },
+    {
+      "path": "mods/xaeroworldmap-fabric-1.21.1-1.47.0.jar",
+      "url": "https://github.com/SrDyMon/mods-atomiextremo/releases/download/Mods/xaeroworldmap-fabric-1.21.1-1.47.0.jar",
+      "sha256": "3e8211e02681f8bc17e1a066b3fcffddfa969cff03f48a5400016f587ba5f8f2"
     },
     {
       "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
